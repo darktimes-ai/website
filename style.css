@@ -1,0 +1,35 @@
+* {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+body {
+    background-color: #222222;
+}
+
+a {
+    color: #ff0000;
+    text-decoration: none;
+}
+a:visited {
+    color: #ff0000;
+    text-decoration: none;
+}
+a:hover {
+    color: #8b0e0e;
+    text-decoration: none;
+}
+
+.header {
+    background-color: #222222;
+    color: #ff0000;
+    font-size: 64px;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.content {
+    width: 50%;
+    font-size: 24px;
+    font-weight: normal;
+}
